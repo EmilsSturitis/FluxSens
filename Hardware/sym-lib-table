@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "fluxsens_try1-rescue")(type "Legacy")(uri "${KIPRJMOD}/fluxsens_try1-rescue.lib")(options "")(descr ""))
+)
