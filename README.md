@@ -16,7 +16,7 @@ Designed for use in development of my Master thesis about non-invasive current m
 |------------|-----------|-------|
 | **DRV5053RA** | Sensor | -45mV/mT |
 
-![Schematic Snippet](/Media/sch_snippet.png)
+![Schematic Snippet](/Media/SCH_snippet.png)
 
 ---
 
