@@ -6,7 +6,7 @@ This project is a small breakout for a DRV5035
 
 Designed for compact drones and portable trackers, it emphasizes **low power**, **robust storage**, and **clear status indication**.
 
-![PCB Render](/Media/PCB_markings.npg)
+![PCB Render](/Media/PCB_markings.png)
 
 ---
 
